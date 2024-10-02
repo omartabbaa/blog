@@ -1,0 +1,32 @@
+
+  
+  .postContainer {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    width: 100%; 
+  }
+  
+  .posts {
+    background-color: rgb(241, 241, 241);
+    color: black;
+    width: 700px;
+    flex-shrink: 1; 
+    margin: 10px;
+    padding: 20px;
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+  }
+  
+  .posts h2 {
+    margin: 0 0 10px 0;
+    color: #2ECC71;
+  }
+  
+  .posts span {
+    display: block;
+    margin: 5px 0;
+  }
+
+
+  
